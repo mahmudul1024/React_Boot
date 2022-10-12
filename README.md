@@ -3,6 +3,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-![](/public/Images/1.png)
+
 
 <img src="/public/Images/1.png" alt="" >
