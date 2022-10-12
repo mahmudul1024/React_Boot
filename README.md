@@ -5,4 +5,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 
-<img src="/public/Images/1.png" alt="" >
+<img src="/public/Images/1.png" alt="" width=50% height=50%>
